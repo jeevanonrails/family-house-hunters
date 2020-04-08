@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Fjord Theme",
+  "title": "Family House Hunter",
   "palette": "yellow",
   "header": {
-    "title": "Fjord",
-    "tagline": "Minimal and clean blog theme",
+    "title": "Family House Hunter",
+    "tagline": "Always There for You",
     "logo_img": "/images/family-house-hunter.png",
     "bg_img": "/images/bernard-hermant-clkggwibtay-unsplash.jpg",
     "has_nav": true,
