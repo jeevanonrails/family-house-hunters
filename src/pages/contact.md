@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/logo-in-blackgold.png
 menus:
   main:
     title: Contact
