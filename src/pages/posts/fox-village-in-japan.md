@@ -1,32 +1,51 @@
 ---
-title: Fox Village In Japan
+title: Four easy-on-the-pocketbook ways to update your home’s interior design
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
-date: '2018-01-11'
-thumb_img_path: images/10.jpg
-content_img_path: images/10.jpg
-excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  With a little creativity, and items already present in your home, you can
+  transform it into a showplace.
+date: 2020-04-08T16:00:00.000Z
+thumb_img_path: /images/neonbrand-wp7t4cwn-68-unsplash.jpg
+content_img_path: ''
+excerpt: Here are 4 inexpensive ways to update your home’s interior design.
 template: post
 ---
+<!--StartFragment-->
 
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
+## **1. Paint**
 
-> The fox never found a better messenger than himself.
+The quickest and most inexpensive change you can make to your home’s interior design is new paint. Whether you decide to paint entire rooms or just create an accent wall, new color on the walls will create instant glamour.
 
-As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
+If you hire a pro to do the job, plan on spending between $380 and $790 for a 10X12 room, according to homeadvisor.com. This is labor only, by the way, and doesn’t include ceilings, trim or cost of the paint.”
 
-Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
+Do it yourself and you’ll save big.
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+## **2. Rearrange what you have**
 
-> The fox changes his fur but not his habits.
+Are you taking advantage of the focal point in each room? Whether it’s the fireplace or a view outside a window, arrange furniture so that it faces the focal point.
 
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
+Not sure what qualifies as a room’s focal point? Check out the guide at [pellabranch.com](https://www.pellabranch.com/blog/global-blogs/how-to-define-a-focal-point/).
 
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+Try switching up furniture from one room and putting it in another. Sometimes a stylish nightstand makes a great end-table in the living room; or try putting a dresser in the dining room to act as a buffet.
+
+If you need new furniture but the price just isn’t in your budget, think about slipcovering what you already have. Or, buy inexpensive used furniture and put your DIY skills to work.
+
+While shopping for used furniture, don’t overlook [Craigslist](http://www.craigslist.org/) online. You can find almost anything there and sellers are likely to negotiate on prices.
+
+## **3. Add Color**
+
+New throw pillows, window coverings and rugs are not only great ways to freshen a room but add color as well. The color-of-the-year, by the way is purple, so go on trend by adding pops of it in your accessories. See the shade (Ultra Violet) on [pantone’s website](https://www.npr.org/sections/thetwo-way/2017/12/07/569153010/purple-is-the-color-of-the-year-for-2018).
+
+Flowers and plants add a splash of color to any room, be it a huge bouquet in the entry or small nosegays in the bathrooms. If you lack a green thumb, silk flowers and plants are inexpensive alternatives.
+
+## **4. Accessories**
+
+You don’t need to break the bank when shopping for accessory pieces and accents for your interior design project. If you find you need a few more accessories why not try flea markets and garage sales? Here’s what to keep an eye out for:
+
+* Mirrors will make any room look larger and lighter. Groupings of mirrors can be an even more dramatic way to open up a room.
+* Art work is another way to add color and interest as well as texture to your interior design.
+* Decorative pillows can be used in bedrooms and living rooms.
+* Look for items such as decorative plates to hang on the kitchen walls, vases, baskets, candle holders and sconces. Other fun things you might want to look for are drawer pulls and handles for your kitchen and bathroom cabinetry.
+
+If you have the budget, by all means, hire a professional to give you some interior decorating ideas. If not, with a little effort you can do it yourself and save some money. Visit [pinterest.com](https://www.pinterest.com/diyboards/diy-home-decor/?lp=true) to find fellow DIYers and get tips.
+
+<!--EndFragment-->
