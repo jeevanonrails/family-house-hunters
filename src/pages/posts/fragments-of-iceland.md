@@ -3,7 +3,7 @@ title: 5 Ways You Can Make Your Solo Home Hunt A Success
 subtitle: Below are 5 ways you can make your solo home hunt a success.
 date: 2020-04-08T16:00:00.000Z
 thumb_img_path: /images/alexander-andrews-a3dphhal6zg-unsplash.jpg
-excerpt: ''
+excerpt: Below are 5 ways you can make your solo home hunt a success.
 hide_header: true
 template: post
 ---
