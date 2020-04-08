@@ -8,7 +8,7 @@ excerpt: >-
   sell the house in as-is condition.
 template: post
 ---
-![Hiking]()
+![]()
 
 <!--StartFragment-->
 
