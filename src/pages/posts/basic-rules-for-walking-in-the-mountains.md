@@ -1,37 +1,59 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Should I sell my home as-is?
 date: '2019-04-09'
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+thumb_img_path: /images/harmen-jelle-van-mourik-0yfwdwhob0g-unsplash.jpg
+content_img_path: ''
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Let’s take a look at some of the issues you should consider before trying to
+  sell the house in as-is condition.
 template: post
 ---
+![Hiking]()
 
-![Hiking](/images/2.jpg)
+<!--StartFragment-->
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+Ah, the need for speed in a real estate deal – we’re quite familiar with it. From clients who’ve taken a job out of town with an impatient employer to the need to sell a deceased family member’s home, “Should I sell my house as-is” is a common question.
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+There are also the clients who tell us they aren’t the best at maintenance and have, sadly, let the home go over the years and they now need to sell, with neither the time nor the money to make needed repairs.
 
-## Long Distance Hiking
+Let’s take a look at some of the issues you should consider before trying to sell the house in as-is condition.
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+## **Price considerations**
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+A recent study finds that most homebuyers – especially first-time buyers – want a home that they can move right into and hang up their toothbrush. And, they say they are willing to pay more for such a home.
 
-## Equipment
+Face it: many of the competing homes in your area will be closer to this condition than yours if you choose not to make improvements and/or repairs.
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+Unless your home is priced low enough to compensate the buyer for what he or she will need to spend to bring it to comparable condition, it will sit on the market.
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+So, if your budget can tolerate a very low listing price, you’ve passed the first challenge of trying to sell as-is.
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+## **Lenders have their preferences too**
 
-## Environmental Impact
+Should you find a buyer who is using a government-backed loan program, such as the VA or FHA, the lender will have a thing or two to say about your home’s condition.
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+Typically, it’s “fix it or we won’t loan the money to the buyer.” You can almost guarantee this for problems of a health or safety nature.
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+Considering that the VA grants almost a half-million mortgages a year and the FHA is the preferred program for first-time buyers, that’s a lot of people to exclude from the buyer pool
+
+The FHA-approved appraiser will be the one to determine what needs to be fixed before the home qualifies for an FHA-program buyer. Repairs listed as essential on his or her report are the ones to be most concerned about.
+
+Even a conventional lender may balk at making a loan for your home if the repairs needed include HVAC, roof or structural problems. Some will require that broken window glass be repaired and ask that any code violations in existence be remedied.
+
+By the way, some home insurance companies are also asking for repairs before they will insure the home for the new owner.
+
+## **Come up with a strategy**
+
+Again, it’s understandable that some fixes are just too expensive for some sellers to manage. For these, we can suggest the FHA 203(k) program in our marketing materials.
+
+With this program, FHA will wrap the cost of the home and the cost of rehab in one loan, so the buyer has only one payment a month. There are other rehab mortgages out there as well.
+
+You’ll also want to consider how you’ll deal with the very low offers you’ll receive. The mere mention of the words “as-is” act as a magnet to investors and flippers. Know the lowest price you’ll accept and remind yourself to keep your emotions in check and to not take lowball offers personally.
+
+Finally, despite the problems with the home, the one way you can help boost the price, even a small amount, is to ensure that it’s clean at all times.
+
+If your home will be vacant, consider some inexpensive staging techniques to help buyers overcome the as-is aspect of the sale.
+
+When a home is neat and tidy (both inside and out) it sends a subliminal message to potential buyers that someone does care about the home.
+
+<!--EndFragment-->
