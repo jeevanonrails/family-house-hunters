@@ -1,24 +1,34 @@
 ---
-title: Few Things I Wish I Knew Before I Moved to New York
-subtitle: A cautionary tale about life in New York
-date: '2018-01-23'
-thumb_img_path: images/5.jpg
-content_img_path: images/5.jpg
+title: Common Real Estate Myths and Misconceptions Debunked
+subtitle: "If you’re new to world of Real Estate you’ll undoubtably have been exposed to\_some of the common rumors associated with the industry."
+date: 2020-04-08T16:00:00.000Z
+thumb_img_path: /images/bigstock-question-mark-98654858.jpg
+content_img_path: ''
 excerpt: >-
-  The City of New York, usually called either New York City (NYC) or simply New
-  York (NY), is the most populous city in the United States. With an estimated
-  2017 population of 8,622,698 distributed over a land area of about 302.6
-  square miles (784 km2), New York is also the most densely populated major city
-  in the United States.
+  Here are some real estate misconceptions and myths that you’ve probably heard
+  from one source or another.
 template: post
 ---
+<!--StartFragment-->
 
-**The City of New York**, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States. With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States.
+**1. You do not need a real estate agent now that you can access the information online**
 
-Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Suscipit tellus mauris a diam maecenas sed enim ut. Risus quis varius quam quisque id diam vel. Nulla facilisi etiam dignissim diam quis enim. Sed blandit libero volutpat sed cras ornare. In metus vulputate eu scelerisque felis. Integer enim neque volutpat ac tincidunt vitae semper quis. Morbi quis commodo odio aenean sed adipiscing diam donec. Quis auctor elit sed vulputate mi sit amet mauris commodo. Maecenas sed enim ut sem viverra aliquet. Eget dolor morbi non arcu risus quis varius quam. Risus quis varius quam quisque id diam vel.
+Buying a home can be a very daunting task, especially for the first time home buyer. So it’s quite important to have an excellent real estate agent to represent your interests. Agents understand the process of buying and selling homes, and will advise you properly on all your market decisions. There is a common misconception in real estate today that buying a home using the online information you collect will result in getting a better deal. This is because there will be no commissions or “cuts” to the real estate agent right? However, nothing can be further from the truth. What you should be aware of is a significant amount of the online information you encounter may not be as valid, honest, or even useful as you may think. Just imagine the kind of service you can get from a real estate agent with 20 years worth of experience. This agent will bring a complete negotiating system to the table to ensure you get the best deal.
 
-> In New York it seems like there's no Monday or Saturday or Sunday. The town is always moving. The vibe is great. - Thierry Henry
+**2. All real estate agents are the same**
 
-Convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare. Donec ac odio tempor orci dapibus ultrices in. Malesuada fames ac turpis egestas sed tempus. Commodo odio aenean sed adipiscing. Vel pretium lectus quam id. Eget mi proin sed libero enim sed. Neque viverra justo nec ultrices dui sapien.
+Another common misconception for home buyers and sellers is to think that all real estate agents are the same. Most home buyers and sellers believe that any agent is qualified to represent their interests. Although this can be quite far from the truth. You must first find out if your chosen agent is a licensed “broker” or “agent”. The buying and selling of a property needs an experienced and hard working agent who will get the transactions done with 100% excellence. Buying or selling a home may be the greatest financial decision in your life. When it comes to choosing real estate agents, choose the most qualified and experienced. You may end up saving a few thousand dollars.
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+**3. You need 20% down payment to buy a home**
+
+There are millions of young people struggling financially with huge student debts. Since the recession, it was quite hard for millennials to buy homes. According to studies, this was a result of strict financing and the need for down payments. However, things have changed in recent times. First time home buyers are now often overwhelmed by the many financing options available. There are many financing loans and mortgages available as long as you have a verifiable source of income and a good credit. This means that there is no more need for the mythical 20% down payment.
+
+**4. Spring is the perfect time to sell your home**
+
+During the past decade, many home buyers came to the market to look for a home in spring just before the start of the school year. This made most home sellers believe that spring is the best time to sell homes. Presently however, not all home buyers are families with children attending school. Buyers can be millennials, single men and women, or couples who are not even focused on the school calendar. Regardless of the month, if your home is prepared properly, priced effectively, and marketed professionally, it will sell. No matter the season, if the home shows well, it will sell and thats the bottom line.
+
+**5. You do not need an open house to sell a home**
+
+With the many available online magazines and listings, many home sellers believe that they do not need open houses to sell their homes. Its certainly plausible to sell your home without an open house but there is really not sufficient evidence to support such a decision. If your home is priced correctly, presentable, and located in a high traffic area, you need an “Operation Open House”. You need to give home buyers the ability to imagine themselves living in your home. Holding an open house is a very great way to increase a homes market appeal.
+
+<!--EndFragment-->
