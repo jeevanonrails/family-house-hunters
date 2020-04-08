@@ -1,31 +1,80 @@
 ---
-title: What Is Photography and What It Means To Me
-subtitle: A intresting tale about Photography and me
-date: '2018-01-15'
-thumb_img_path: images/8.jpg
-content_img_path: images/8.jpg
+title: Summer home maintenance projects you can knock out in 10 minutes or less
+subtitle: ''
+date: 2020-04-08T16:00:00.000Z
+thumb_img_path: /images/bigstock-happy-smiling-couple-painting-12839351.jpg
+content_img_path: ''
 excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+  Summertime isn’t exactly when we feel most compelled to perform home
+  maintenance tasks.
 template: post
 ---
+<!--StartFragment-->
 
-**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
+Getting the easier ones out of the way now, however, will lighten the “honey do” list you’ll face in fall.
 
-Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+To make it even easier on you, we’ve put together a list of projects that will take you only 10 minutes or less to perform.
 
-> When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
+## **Let it slide**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit. 
+Squirt some lubricant on anything that slides, such as sliding glass doors, windows and doors once a year. But, first, clean out the “gunk” that’s accumulated in and around the tracks.
 
-Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Tincidunt lobortis feugiat vivamus at augue eget. Nulla at volutpat diam ut venenatis. Amet est placerat in egestas erat. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque. Sed tempus urna et pharetra pharetra. Lacus viverra vitae congue eu consequat ac felis donec. Sapien eget mi proin sed libero enim sed.
+If you have vinyl windows, use caution, warns the [Family Handyman](https://www.familyhandyman.com/). Oil lubricants can damage the vinyl, so he recommends using a dry PTFE (Polytetrafluoroethylene) spray lubricant (such as WD-40® SPECIALIST®) “. . . on the contact points and wiping it off with a rag.”
 
-## Creative Photography
+Out of commercial lubricant? Use a small dab of petroleum jelly on door hinges. Again, this will attract and hold dust and dirt, so don’t use the oily substance on the window tracks.
 
-Faucibus et molestie ac feugiat. Auctor augue mauris augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet sit amet. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Euismod quis viverra nibh cras pulvinar mattis nunc. Nibh cras pulvinar mattis nunc sed. Pellentesque massa placerat duis ultricies. Mollis aliquam ut porttitor leo a diam. Donec et odio pellentesque diam. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.
+## **Channel your inner Sherlock Holmes**
 
-Odio pellentesque diam volutpat commodo. Purus in mollis nunc sed id semper. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Viverra nibh cras pulvinar mattis nunc sed blandit. Massa tincidunt dui ut ornare lectus. Turpis tincidunt id aliquet risus. Ut aliquam purus sit amet luctus venenatis lectus. Consectetur adipiscing elit pellentesque habitant. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Quis vel eros donec ac. Ut pharetra sit amet aliquam id. Lobortis elementum nibh tellus molestie nunc non blandit. Dignissim cras tincidunt lobortis feugiat vivamus at. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. Mattis nunc sed blandit libero volutpat sed. Dignissim diam quis enim lobortis scelerisque fermentum.
+Some of the annual inspections that the experts recommend can be knocked out in less than 10 minutes. Do one every weekend and you’ll have this part of your home maintenance chore list whittled down to where you’ll have more time for fun on the weekends.
 
-Gravida dictum fusce ut placerat orci nulla pellentesque. Elementum nibh tellus molestie nunc non. Tortor at risus viverra adipiscing at in. Eget nulla facilisi etiam dignissim diam quis. Feugiat in fermentum posuere urna. Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Quis imperdiet massa tincidunt nunc. Orci phasellus egestas tellus rutrum tellus pellentesque. Sagittis vitae et leo duis ut. Ornare quam viverra orci sagittis. Mi sit amet mauris commodo. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
+* Dust and test your smoke and carbon monoxide detectors, according to the user’s manual instructions. Change the batteries, if needed.
+
+
+
+* Check the water heater for rust. Open the burner chamber and look for rust flakes. Also take a look at the flame – it should be blue. If it contains yellow coloring, the jets may need cleaning.
+
+
+
+* Test the ground fault interrupter outlets by pushing the “test” button. The “reset” button should pop out. Push it and you’re finished.
+
+
+
+* Check the garage door opener for safety issues. Bob Vila recommends pulling the handle to put the system into manual mode and lifting the door three feet from the ground. It should remain open. If it doesn’t, call a garage door professional. Put the system back into automatic mode and open the door completely. Place an obstacle under it, such as a garbage can and press the button to close the door. If it doesn’t stop when it meets the obstacle, call a garage door professional as soon as possible.
+
+
+
+* While you’re lubricating the windows and doors, inspect the weather stripping for signs of wear.
+
+
+
+* Scale can build up on the water valves under your sinks and behind the toilets and you can prevent this by turning each one off and then back on at least twice each year.
+
+
+
+* Open the breaker box and check to ensure there are no scorch marks around the fuses or breakers.
+
+## **Only you can prevent home fires**
+
+Most home fires are preventable, so including safety maintenance chores on your list may save lives. All of these tasks take just a few minutes.
+
+* Check the clothes dryer ducts for lint buildup. Unplug it and move it away from the wall. Disconnect the ductwork and examine the opening in the wall for lint. Use a vacuum to clean out any buildup you find. For step-by-step instructions on how to thoroughly clean your dryer vents, visit [bobvila.com](https://www.bobvila.com/articles/bob-vila-radio-cleaning-your-dryer-vents/).
+
+
+
+* Inspect the fire extinguishers. The experts at All State Insurance recommend that you inspect them at least once a month. First, check to ensure the safety and tamper seals are intact. Check the pressure gauge to ensure it has the proper pressure. Some extinguishers have a test button. Press it and watch the gauge to ensure the pressure is adequate. Finally, check the tank for signs of corrosion or leaking.
+
+
+
+* Check each electrical outlet in the home by touching them. If they feel hot to the touch, call an electrician.
+
+
+
+* Frayed wires are fire hazards so take a few minutes to check the cords on appliances, electronics, lamps and other electric products. Don’t run extension cords under rugs, by the way.
+
+
+
+* Inspect the fireplace flue for blockages, such as bird nests. Open the damper and use a flashlight to look for obstructions. According to Bob Villa, “You should be able to see daylight at the top.”
+
+Take 10 minutes to perform each of these tasks and over the course of a few weeks you will have considerably shortened your home maintenance to-do list.
+
+<!--EndFragment-->
